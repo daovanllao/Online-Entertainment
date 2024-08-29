@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite thread-count="5" name="suite_dao">
+
+
+    <test name="suite1-test1">
+        <classes>
+        	<class name="testNG.dao.TaiKhoanDAO_TestNG"/>
+        	<class name="testNG.dao.SanPhamDAO_TestNG"/>
+        	<class name="testNG.dao.PhanLoaiSPDAO_TestNG"/>
+        	<class name="testNG.dao.KhachHangDAO_TestNG"/>
+        	<class name="testNG.dao.DonHangDAO_TestNG"/>
+        	<class name="testNG.dao.DonHangChiTietDAO_TestNG"/>
+        	<class name="testNG.dao.ChamSocKhachHangDAO_TestNG"/>
+            <class name="testNG.dao.BaoCaoThongKeDAOTest_TestNG"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: mssql-jdbc-12.4.1.jre11.jar
+Main-Class: com.hanni.ui.MainJFrame
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="40" passed="40" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-06T19:28:20 ICT" name="Suite11" finished-at="2024-04-06T19:28:23 ICT" duration-ms="3067">
+    <groups>
+    </groups>
+    <test started-at="2024-04-06T19:28:20 ICT" name="Test11" finished-at="2024-04-06T19:28:23 ICT" duration-ms="3067">
+      <class name="testNG.dao.TaiKhoanDAO_TestNG">
+        <test-method signature="testDelete()[pri:0, instance:testNG.dao.TaiKhoanDAO_TestNG@1972e513]" started-at="2024-04-06T19:28:21 ICT" name="testDelete" finished-at="2024-04-06T19:28:21 ICT" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testInsert()[pri:0, instance:testNG.dao.TaiKhoanDAO_TestNG@1972e513]" started-at="2024-04-06T19:28:21 ICT" name="testInsert" finished-at="2024-04-06T19:28:21 ICT" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testSelectAll()[pri:0, instance:testNG.dao.TaiKhoanDAO_TestNG@1972e513]" started-at="2024-04-06T19:28:21 ICT" name="testSelectAll" finished-at="2024-04-06T19:28:21 ICT" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectById()[pri:0, instance:testNG.dao.TaiKhoanDAO_TestNG@1972e513]" started-at="2024-04-06T19:28:21 ICT" name="testSelectById" finished-at="2024-04-06T19:28:21 ICT" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectById -->
+        <test-method signature="testUpdate()[pri:0, instance:testNG.dao.TaiKhoanDAO_TestNG@1972e513]" started-at="2024-04-06T19:28:21 ICT" name="testUpdate" finished-at="2024-04-06T19:28:21 ICT" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+      </class> <!-- testNG.dao.TaiKhoanDAO_TestNG -->
+      <class name="testNG.dao.BaoCaoThongKeDAO_TestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="setUp" finished-at="2024-04-06T19:28:22 ICT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSelectAllDoanhThuNam()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="testSelectAllDoanhThuNam" finished-at="2024-04-06T19:28:22 ICT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAllDoanhThuNam -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="tearDown" finished-at="2024-04-06T19:28:22 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="setUp" finished-at="2024-04-06T19:28:22 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSelectAllDoanhThuNgay()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="testSelectAllDoanhThuNgay" finished-at="2024-04-06T19:28:22 ICT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAllDoanhThuNgay -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="tearDown" finished-at="2024-04-06T19:28:22 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="setUp" finished-at="2024-04-06T19:28:22 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSelectAllDoanhThuThang()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="testSelectAllDoanhThuThang" finished-at="2024-04-06T19:28:22 ICT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAllDoanhThuThang -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="tearDown" finished-at="2024-04-06T19:28:22 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testSelectBySql()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="testSelectBySql" finished-at="2024-04-06T19:28:22 ICT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectBySql -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="setUp" finished-at="2024-04-06T19:28:22 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG.dao.BaoCaoThongKeDAO_TestNG@548a24a]" started-at="2024-04-06T19:28:22 ICT" name="tearDown" finished-at="2024-04-06T19:28:22 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG.dao.BaoCaoThongKeDAO_TestNG -->
+      <class name="testNG.dao.ChamSocKhachHangDAO_TestNG">
+        <test-method signature="testDelete()[pri:0, instance:testNG.dao.ChamSocKhachHangDAO_TestNG@7ae0a9ec]" started-at="2024-04-06T19:28:21 ICT" name="testDelete" finished-at="2024-04-06T19:28:21 ICT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testInsert()[pri:0, instance:testNG.dao.ChamSocKhachHangDAO_TestNG@7ae0a9ec]" started-at="2024-04-06T19:28:21 ICT" name="testInsert" finished-at="2024-04-06T19:28:22 ICT" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testSelectAll()[pri:0, instance:testNG.dao.ChamSocKhachHangDAO_TestNG@7ae0a9ec]" started-at="2024-04-06T19:28:22 ICT" name="testSelectAll" finished-at="2024-04-06T19:28:22 ICT" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectById()[pri:0, instance:testNG.dao.ChamSocKhachHangDAO_TestNG@7ae0a9ec]" started-at="2024-04-06T19:28:22 ICT" name="testSelectById" finished-at="2024-04-06T19:28:22 ICT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectById -->
+        <test-method signature="testUpdate()[pri:0, instance:testNG.dao.ChamSocKhachHangDAO_TestNG@7ae0a9ec]" started-at="2024-04-06T19:28:22 ICT" name="testUpdate" finished-at="2024-04-06T19:28:22 ICT" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+      </class> <!-- testNG.dao.ChamSocKhachHangDAO_TestNG -->
+      <class name="testNG.dao.KhachHangDAO_TestNG">
+        <test-method signature="testDelete()[pri:0, instance:testNG.dao.KhachHangDAO_TestNG@1807e3f6]" started-at="2024-04-06T19:28:22 ICT" name="testDelete" finished-at="2024-04-06T19:28:22 ICT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testInsert()[pri:0, instance:testNG.dao.KhachHangDAO_TestNG@1807e3f6]" started-at="2024-04-06T19:28:22 ICT" name="testInsert" finished-at="2024-04-06T19:28:22 ICT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testSelectAll()[pri:0, instance:testNG.dao.KhachHangDAO_TestNG@1807e3f6]" started-at="2024-04-06T19:28:22 ICT" name="testSelectAll" finished-at="2024-04-06T19:28:22 ICT" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectById()[pri:0, instance:testNG.dao.KhachHangDAO_TestNG@1807e3f6]" started-at="2024-04-06T19:28:23 ICT" name="testSelectById" finished-at="2024-04-06T19:28:23 ICT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectById -->
+        <test-method signature="testUpdate()[pri:0, instance:testNG.dao.KhachHangDAO_TestNG@1807e3f6]" started-at="2024-04-06T19:28:23 ICT" name="testUpdate" finished-at="2024-04-06T19:28:23 ICT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+      </class> <!-- testNG.dao.KhachHangDAO_TestNG -->
+      <class name="testNG.dao.PhanLoaiSPDAO_TestNG">
+        <test-method signature="testDelete()[pri:0, instance:testNG.dao.PhanLoaiSPDAO_TestNG@35841320]" started-at="2024-04-06T19:28:22 ICT" name="testDelete" finished-at="2024-04-06T19:28:22 ICT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testInsert()[pri:0, instance:testNG.dao.PhanLoaiSPDAO_TestNG@35841320]" started-at="2024-04-06T19:28:22 ICT" name="testInsert" finished-at="2024-04-06T19:28:22 ICT" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testSelectAll()[pri:0, instance:testNG.dao.PhanLoaiSPDAO_TestNG@35841320]" started-at="2024-04-06T19:28:22 ICT" name="testSelectAll" finished-at="2024-04-06T19:28:22 ICT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectById()[pri:0, instance:testNG.dao.PhanLoaiSPDAO_TestNG@35841320]" started-at="2024-04-06T19:28:22 ICT" name="testSelectById" finished-at="2024-04-06T19:28:22 ICT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectById -->
+        <test-method signature="testUpdate()[pri:0, instance:testNG.dao.PhanLoaiSPDAO_TestNG@35841320]" started-at="2024-04-06T19:28:22 ICT" name="testUpdate" finished-at="2024-04-06T19:28:22 ICT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+      </class> <!-- testNG.dao.PhanLoaiSPDAO_TestNG -->
+      <class name="testNG.dao.SanPhamDAO_TestNG">
+        <test-method signature="testDelete()[pri:0, instance:testNG.dao.SanPhamDAO_TestNG@55cb6996]" started-at="2024-04-06T19:28:22 ICT" name="testDelete" finished-at="2024-04-06T19:28:22 ICT" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testInsert()[pri:0, instance:testNG.dao.SanPhamDAO_TestNG@55cb6996]" started-at="2024-04-06T19:28:22 ICT" name="testInsert" finished-at="2024-04-06T19:28:22 ICT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testSelectAll()[pri:0, instance:testNG.dao.SanPhamDAO_TestNG@55cb6996]" started-at="2024-04-06T19:28:22 ICT" name="testSelectAll" finished-at="2024-04-06T19:28:22 ICT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectById()[pri:0, instance:testNG.dao.SanPhamDAO_TestNG@55cb6996]" started-at="2024-04-06T19:28:22 ICT" name="testSelectById" finished-at="2024-04-06T19:28:22 ICT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectById -->
+        <test-method signature="testSelectBySql()[pri:0, instance:testNG.dao.SanPhamDAO_TestNG@55cb6996]" started-at="2024-04-06T19:28:22 ICT" name="testSelectBySql" finished-at="2024-04-06T19:28:22 ICT" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectBySql -->
+        <test-method signature="testUpdate()[pri:0, instance:testNG.dao.SanPhamDAO_TestNG@55cb6996]" started-at="2024-04-06T19:28:22 ICT" name="testUpdate" finished-at="2024-04-06T19:28:22 ICT" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+      </class> <!-- testNG.dao.SanPhamDAO_TestNG -->
+      <class name="testNG.dao.DonHangDAO_TestNG">
+        <test-method signature="testDelete()[pri:0, instance:testNG.dao.DonHangDAO_TestNG@3e08ff24]" started-at="2024-04-06T19:28:20 ICT" name="testDelete" finished-at="2024-04-06T19:28:21 ICT" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testInsert()[pri:0, instance:testNG.dao.DonHangDAO_TestNG@3e08ff24]" started-at="2024-04-06T19:28:21 ICT" name="testInsert" finished-at="2024-04-06T19:28:21 ICT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testSelectAll()[pri:0, instance:testNG.dao.DonHangDAO_TestNG@3e08ff24]" started-at="2024-04-06T19:28:21 ICT" name="testSelectAll" finished-at="2024-04-06T19:28:21 ICT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectById()[pri:0, instance:testNG.dao.DonHangDAO_TestNG@3e08ff24]" started-at="2024-04-06T19:28:21 ICT" name="testSelectById" finished-at="2024-04-06T19:28:21 ICT" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectById -->
+        <test-method signature="testUpdate()[pri:0, instance:testNG.dao.DonHangDAO_TestNG@3e08ff24]" started-at="2024-04-06T19:28:21 ICT" name="testUpdate" finished-at="2024-04-06T19:28:21 ICT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+      </class> <!-- testNG.dao.DonHangDAO_TestNG -->
+      <class name="testNG.dao.DonHangChiTietDAO_TestNG">
+        <test-method signature="testDelete()[pri:0, instance:testNG.dao.DonHangChiTietDAO_TestNG@480d3575]" started-at="2024-04-06T19:28:23 ICT" name="testDelete" finished-at="2024-04-06T19:28:23 ICT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testInsert()[pri:0, instance:testNG.dao.DonHangChiTietDAO_TestNG@480d3575]" started-at="2024-04-06T19:28:23 ICT" name="testInsert" finished-at="2024-04-06T19:28:23 ICT" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsert -->
+        <test-method signature="testSelectAll()[pri:0, instance:testNG.dao.DonHangChiTietDAO_TestNG@480d3575]" started-at="2024-04-06T19:28:23 ICT" name="testSelectAll" finished-at="2024-04-06T19:28:23 ICT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectAll -->
+        <test-method signature="testSelectById()[pri:0, instance:testNG.dao.DonHangChiTietDAO_TestNG@480d3575]" started-at="2024-04-06T19:28:23 ICT" name="testSelectById" finished-at="2024-04-06T19:28:23 ICT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectById -->
+        <test-method signature="testUpdate()[pri:0, instance:testNG.dao.DonHangChiTietDAO_TestNG@480d3575]" started-at="2024-04-06T19:28:23 ICT" name="testUpdate" finished-at="2024-04-06T19:28:23 ICT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+      </class> <!-- testNG.dao.DonHangChiTietDAO_TestNG -->
+    </test> <!-- Test11 -->
+  </suite> <!-- Suite11 -->
+</testng-results>
